@@ -1,6 +1,6 @@
 # Breast Cancer Diagnostic
 
-*COMPANY*:
+*COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*:
 
