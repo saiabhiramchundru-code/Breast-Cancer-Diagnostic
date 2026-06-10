@@ -4,7 +4,7 @@
 
 *NAME* : Chundru Abhiram
 
-*INTERN ID* : CITSI1398
+*INTERN ID* : CITS1398
 
 *DOMAIN* : Machine Learning
 
@@ -75,3 +75,7 @@ Features
 * Streamlit dashboard creation
 
 ## Output
+
+<img width="530" height="438" alt="Image" src="https://github.com/user-attachments/assets/e29908ac-c7de-455e-828f-5173f05620cd" />
+<img width="571" height="432" alt="Image" src="https://github.com/user-attachments/assets/79f02067-a8a7-4dc2-9e36-53a20db550ee" />
+<img width="1064" height="821" alt="Image" src="https://github.com/user-attachments/assets/8d4d7d13-09cb-4b1f-9c2a-94f1ecd3bd1a" />
